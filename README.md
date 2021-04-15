@@ -1,2 +1,2 @@
 # iDev
-Applications for apple device devices
+Applications for apple devices
